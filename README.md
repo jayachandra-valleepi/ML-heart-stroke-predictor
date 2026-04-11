@@ -1,4 +1,4 @@
-🧠 Heart Stroke Prediction ML App
+# 🧠 Heart Stroke Prediction ML App
 
 This is a Machine Learning project that predicts the risk of heart stroke based on user health inputs. The model is trained using ML algorithms and deployed using a Streamlit web application for easy interaction.
 
