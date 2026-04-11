@@ -2,17 +2,16 @@
 
 This is a Machine Learning project that predicts the risk of heart stroke based on user health inputs. The model is trained using ML algorithms and deployed using a Streamlit web application for easy interaction.
 
-🚀 Project Overview
+### 🚀 Project Overview
 
 This project uses a trained ML model (pickle file) to predict whether a person is at risk of a heart stroke based on medical features like age, glucose level, BMI, etc.
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 Python 🐍
 Pandas
 Scikit-learn
 Joblib / Pickle
 Streamlit
-
 
 
 📂 Project Structure
@@ -23,23 +22,23 @@ ML_Models/
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
 
-⚙️ How to Run the Project
+### ⚙️ How to Run the Project
 ----------------------------------------------------------------
 1. Clone the repository
-git clone https://github.com/your-username/heart-stroke-prediction-ml.git
+git clone https://github.com/...........
 
-2. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-3. Run Streamlit app
+4. Run Streamlit app
 streamlit run app.py
 
-📊 Model Details
+### 📊 Model Details
 Model trained on medical dataset
 Uses classification algorithms
 Outputs risk prediction: Stroke / No Stroke
 
-🎯 Features
+### 🎯 Features
 
 Simple web UI using Streamlit
 Real-time prediction
@@ -47,5 +46,5 @@ Lightweight ML model using pickle
 Easy to use interface
 
 
-👨‍💻 Author
+### 👨‍💻 Author
 Jayachandra
