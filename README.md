@@ -47,4 +47,4 @@ Easy to use interface
 
 
 ### 👨‍💻 Author
-Jayachandra
+V Jayachandra
